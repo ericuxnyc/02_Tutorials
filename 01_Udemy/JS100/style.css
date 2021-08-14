@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    background: cornflowerblue;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+.counter-div {
+    width: 40rem;
+    border: 1px solid grey;
+    padding: 1rem;
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+
+}
